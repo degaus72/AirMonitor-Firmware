@@ -1,6 +1,6 @@
 {
   "product": "AirMonitor",
-  "version": "0.1.8-alpha-development",
-  "firmware": "https://github.com/degaus72/AirMonitor-Firmware/releases/download/ota-test-0.1.8/AirMonitor-0.1.8-alpha-development.bin",
-  "sha256": "fe5290de15d990183a97c55263289a9d52d070632cb54f9d5a1968939d2c05ba"
+  "version": "0.1.9-alpha-development",
+  "firmware": "https://github.com/degaus72/AirMonitor-Firmware/releases/download/ota-test-0.1.9/AirMonitor-0.1.9-alpha-development.bin",
+  "sha256": "e6403032f33f7a2dfe19b9169a25121c5e72571e7cd6ad8588934f85b3f2b014"
 }
